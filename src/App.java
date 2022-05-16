@@ -12,6 +12,8 @@ public class App {
 
         clear();
         mainMenu();
+
+        // HELLO
         
     }
 
